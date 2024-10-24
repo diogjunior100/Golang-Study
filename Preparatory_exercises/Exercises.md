@@ -1,12 +1,12 @@
 ### Exercícios preparatórios
 
 1. Tipos de dados e operadores aritméticos, lógicos e relacionais
-- [ ] [1 - Soma Simples](https://www.beecrowd.com.br/judge/pt/problems/view/1003)
-- [ ] [2 - Diferença](https://www.beecrowd.com.br/judge/pt/problems/view/1007) 
-- [ ] [3 - Área do círculo](https://www.beecrowd.com.br/judge/pt/problems/view/1002) 
-- [ ] [4 - Esfera](https://www.beecrowd.com.br/judge/pt/problems/view/1011) <br>
-- [ ] [5 - Média 2](https://www.beecrowd.com.br/judge/pt/problems/view/1006) <br>
-- [ ] [6 - Área](https://www.beecrowd.com.br/judge/pt/problems/view/1012) <br>
+- [X] [1 - Soma Simples](https://www.beecrowd.com.br/judge/pt/problems/view/1003)
+- [X] [2 - Diferença](https://www.beecrowd.com.br/judge/pt/problems/view/1007) 
+- [X] [3 - Área do círculo](https://www.beecrowd.com.br/judge/pt/problems/view/1002) 
+- [X] [4 - Esfera](https://www.beecrowd.com.br/judge/pt/problems/view/1011) <br>
+- [X] [5 - Média 2](https://www.beecrowd.com.br/judge/pt/problems/view/1006) <br>
+- [X] [6 - Área](https://www.beecrowd.com.br/judge/pt/problems/view/1012) <br>
 - [ ] [7 - Gasto de Combustível](https://www.beecrowd.com.br/judge/pt/problems/view/1017) <br>
 - [ ] [8 - Conversão de Tempo](https://www.beecrowd.com.br/judge/pt/problems/view/1019) <br>
 - [ ] [9 - O Maior](https://www.beecrowd.com.br/judge/pt/problems/view/1013) <br>
