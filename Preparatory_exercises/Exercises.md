@@ -13,8 +13,8 @@
 - [X] [10 - Distância entre dois pontos](https://www.beecrowd.com.br/judge/pt/problems/view/1015) <br>
 
 2. Condicionais
-- [ ] [Lanche](https://www.beecrowd.com.br/judge/pt/problems/view/1038) 
-- [ ] [Múltiplos](https://www.beecrowd.com.br/judge/pt/problems/view/1044) 
+- [X] [Lanche](https://www.beecrowd.com.br/judge/pt/problems/view/1038) 
+- [X] [Múltiplos](https://www.beecrowd.com.br/judge/pt/problems/view/1044) 
 - [ ] [Sedex](https://www.beecrowd.com.br/judge/pt/problems/view/2375) <br>
 - [ ] [Intervalo](https://www.beecrowd.com.br/judge/pt/problems/view/1037) <br>
 - [ ] [Imposto de Renda](https://www.beecrowd.com.br/judge/pt/problems/view/1051) <br>
