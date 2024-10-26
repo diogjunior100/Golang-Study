@@ -7,10 +7,10 @@
 - [X] [4 - Esfera](https://www.beecrowd.com.br/judge/pt/problems/view/1011) <br>
 - [X] [5 - Média 2](https://www.beecrowd.com.br/judge/pt/problems/view/1006) <br>
 - [X] [6 - Área](https://www.beecrowd.com.br/judge/pt/problems/view/1012) <br>
-- [ ] [7 - Gasto de Combustível](https://www.beecrowd.com.br/judge/pt/problems/view/1017) <br>
-- [ ] [8 - Conversão de Tempo](https://www.beecrowd.com.br/judge/pt/problems/view/1019) <br>
-- [ ] [9 - O Maior](https://www.beecrowd.com.br/judge/pt/problems/view/1013) <br>
-- [ ] [10 - Distância entre dois pontos](https://www.beecrowd.com.br/judge/pt/problems/view/1015) <br>
+- [X] [7 - Gasto de Combustível](https://www.beecrowd.com.br/judge/pt/problems/view/1017) <br>
+- [X] [8 - Conversão de Tempo](https://www.beecrowd.com.br/judge/pt/problems/view/1019) <br>
+- [X] [9 - O Maior](https://www.beecrowd.com.br/judge/pt/problems/view/1013) <br>
+- [X] [10 - Distância entre dois pontos](https://www.beecrowd.com.br/judge/pt/problems/view/1015) <br>
 
 2. Condicionais
 - [ ] [Lanche](https://www.beecrowd.com.br/judge/pt/problems/view/1038) 
