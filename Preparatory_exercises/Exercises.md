@@ -20,8 +20,8 @@
 - [X] [Imposto de Renda](https://www.beecrowd.com.br/judge/pt/problems/view/1051) <br>
 - [X] [Coordenadas de um Ponto](https://www.beecrowd.com.br/judge/pt/problems/view/1041) <br>
 - [X] [Sort Simples](https://www.beecrowd.com.br/judge/pt/problems/view/1042) <br>
-- [ ] [Fórmula de Bhaskara](https://www.beecrowd.com.br/judge/pt/problems/view/1036) <br>
-- [ ] [Triângulo](https://www.beecrowd.com.br/judge/pt/problems/view/1043) <br>
+- [X] [Fórmula de Bhaskara](https://www.beecrowd.com.br/judge/pt/problems/view/1036) <br>
+- [X] [Triângulo](https://www.beecrowd.com.br/judge/pt/problems/view/1043) <br>
 - [ ] [Tempo de um evento](https://www.beecrowd.com.br/judge/pt/problems/view/1061) <br>
 
 3. Laços
