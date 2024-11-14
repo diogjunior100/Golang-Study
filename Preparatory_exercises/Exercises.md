@@ -22,12 +22,12 @@
 - [X] [Sort Simples](https://www.beecrowd.com.br/judge/pt/problems/view/1042) <br>
 - [X] [Fórmula de Bhaskara](https://www.beecrowd.com.br/judge/pt/problems/view/1036) <br>
 - [X] [Triângulo](https://www.beecrowd.com.br/judge/pt/problems/view/1043) <br>
-- [ ] [Tempo de um evento](https://www.beecrowd.com.br/judge/pt/problems/view/1061) <br>
+- [X] [Tempo de um evento](https://www.beecrowd.com.br/judge/pt/problems/view/1061) <br>
 
 3. Laços
-- [ ] [Números pares](https://www.beecrowd.com.br/judge/pt/problems/view/1059) <br>
-- [ ] [Crescente e Decrescente](https://www.beecrowd.com.br/judge/pt/problems/view/1113) <br>
-- [ ] [Intevalo 2](https://www.beecrowd.com.br/judge/pt/problems/view/1072) <br>
+- [X] [Números pares](https://www.beecrowd.com.br/judge/pt/problems/view/1059) <br>
+- [X] [Crescente e Decrescente](https://www.beecrowd.com.br/judge/pt/problems/view/1113) <br>
+- [X] [Intevalo 2](https://www.beecrowd.com.br/judge/pt/problems/view/1072) <br>
 - [ ] [Notas e Moedas](https://www.beecrowd.com.br/judge/pt/problems/view/1021) <br>
 - [ ] [Múltiplos de 13](https://www.beecrowd.com.br/judge/pt/problems/view/1132) <br>
 - [ ] [Fibonacci Fácil](https://www.beecrowd.com.br/judge/pt/problems/view/1151) <br>
