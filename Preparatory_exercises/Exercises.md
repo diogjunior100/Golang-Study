@@ -29,12 +29,12 @@
 - [X] [Crescente e Decrescente](https://www.beecrowd.com.br/judge/pt/problems/view/1113) <br>
 - [X] [Intevalo 2](https://www.beecrowd.com.br/judge/pt/problems/view/1072) <br>
 - [ ] [Notas e Moedas](https://www.beecrowd.com.br/judge/pt/problems/view/1021) <br>
-- [ ] [Múltiplos de 13](https://www.beecrowd.com.br/judge/pt/problems/view/1132) <br>
+- [X] [Múltiplos de 13](https://www.beecrowd.com.br/judge/pt/problems/view/1132) <br>
 - [ ] [Fibonacci Fácil](https://www.beecrowd.com.br/judge/pt/problems/view/1151) <br>
 - [ ] [Idades](https://www.beecrowd.com.br/judge/pt/problems/view/1154) <br>
 - [ ] [Crescimento Populacional](https://www.beecrowd.com.br/judge/pt/problems/view/1160) <br>
 - [ ] [Número Perfeito](https://www.beecrowd.com.br/judge/pt/problems/view/1164) <br>
-- [ ] [Número Primo](https://www.beecrowd.com.br/judge/pt/problems/view/1165) <br>
+- [X] [Número Primo](https://www.beecrowd.com.br/judge/pt/problems/view/1165) <br>
 
 4. Vetores e matrizes
 - [ ] [Menor e Posição](https://www.beecrowd.com.br/judge/pt/problems/view/1180)
