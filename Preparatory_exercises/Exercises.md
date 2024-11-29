@@ -31,9 +31,9 @@
 - [ ] [Notas e Moedas](https://www.beecrowd.com.br/judge/pt/problems/view/1021) <br>
 - [X] [Múltiplos de 13](https://www.beecrowd.com.br/judge/pt/problems/view/1132) <br>
 - [ ] [Fibonacci Fácil](https://www.beecrowd.com.br/judge/pt/problems/view/1151) <br>
-- [ ] [Idades](https://www.beecrowd.com.br/judge/pt/problems/view/1154) <br>
-- [ ] [Crescimento Populacional](https://www.beecrowd.com.br/judge/pt/problems/view/1160) <br>
-- [ ] [Número Perfeito](https://www.beecrowd.com.br/judge/pt/problems/view/1164) <br>
+- [X] [Idades](https://www.beecrowd.com.br/judge/pt/problems/view/1154) <br>
+- [X] [Crescimento Populacional](https://www.beecrowd.com.br/judge/pt/problems/view/1160) <br>
+- [X] [Número Perfeito](https://www.beecrowd.com.br/judge/pt/problems/view/1164) <br>
 - [X] [Número Primo](https://www.beecrowd.com.br/judge/pt/problems/view/1165) <br>
 
 4. Vetores e matrizes
