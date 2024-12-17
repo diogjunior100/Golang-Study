@@ -30,15 +30,15 @@
 - [X] [Intevalo 2](https://www.beecrowd.com.br/judge/pt/problems/view/1072) <br>
 - [ ] [Notas e Moedas](https://www.beecrowd.com.br/judge/pt/problems/view/1021) <br>
 - [X] [Múltiplos de 13](https://www.beecrowd.com.br/judge/pt/problems/view/1132) <br>
-- [ ] [Fibonacci Fácil](https://www.beecrowd.com.br/judge/pt/problems/view/1151) <br>
+- [X] [Fibonacci Fácil](https://www.beecrowd.com.br/judge/pt/problems/view/1151) <br>
 - [X] [Idades](https://www.beecrowd.com.br/judge/pt/problems/view/1154) <br>
 - [X] [Crescimento Populacional](https://www.beecrowd.com.br/judge/pt/problems/view/1160) <br>
 - [X] [Número Perfeito](https://www.beecrowd.com.br/judge/pt/problems/view/1164) <br>
 - [X] [Número Primo](https://www.beecrowd.com.br/judge/pt/problems/view/1165) <br>
 
 4. Vetores e matrizes
-- [ ] [Menor e Posição](https://www.beecrowd.com.br/judge/pt/problems/view/1180)
-- [ ] [Tomadas](https://www.beecrowd.com.br/judge/pt/problems/view/1930)
+- [X] [Menor e Posição](https://www.beecrowd.com.br/judge/pt/problems/view/1180)
+- [X] [Tomadas](https://www.beecrowd.com.br/judge/pt/problems/view/1930)
 - [ ] [Fibonacci em Vetor](https://www.beecrowd.com.br/judge/pt/problems/view/1176)
 - [ ] [Linha na Matriz](https://www.beecrowd.com.br/judge/pt/problems/view/1181)
 - [ ] [Triângulo](https://www.beecrowd.com.br/judge/pt/problems/view/1929)
